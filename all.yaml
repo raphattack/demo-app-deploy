@@ -25,7 +25,7 @@ spec:
         app: demo-app
     spec:
       containers:
-      - image: ghcr.io/raphattack/demo-app:af9a310a64f17b85d4d3071af00580146b4f7eef
+      - image: ghcr.io/raphattack/demo-app:272f5f2d13d40e863ec2f607e982a36147976459
         name: demo-app
         ports:
         - containerPort: 8080
