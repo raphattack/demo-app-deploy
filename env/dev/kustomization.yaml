@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/raphattack/demo-app
-  newTag: latest
+  newTag: 2705d7cc103798606c63bf4a9e1193e33997d7fe
